@@ -68,7 +68,7 @@ rt.setup({
 	<b>Inlay Hints</b>
   </summary>
   
-  ![inlay hints](https://github.com/Ciel-MC/rust-tools/raw/master/demos/inlay_hints.png)
+  ![inlay hints](https://github.com/Ciel-MC/rust-tools.nvim/raw/inline-inlay-hints/demos/inlay-hints.png)
   ```lua
   -- Commands:
   -- RustEnableInlayHints
